@@ -1,1 +1,1 @@
-# Semantic-Analyzer to Compilers Course
+# Preditive Recursive Lexical Analizer for Compilers Course
